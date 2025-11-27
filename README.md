@@ -1,6 +1,6 @@
 # Exp 4 Comparative Study of 32-Bit ALU Implementations Using Case and If-Else Constructs
 
-## Aim: 
+## Aim:
 Write a Verilog code for 32 32-bit ALU supporting four logical and four arithmetic operations, use case statement and if statement for ALU behavioral modeling. 
 
 To verify the Functionality using Test Bench 
